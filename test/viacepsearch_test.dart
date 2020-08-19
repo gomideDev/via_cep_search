@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:viacepsearch/viacepsearch.dart';
+import 'package:viacepsearch_silas/viacepsearch.dart';
 
 void main() {
   test('adds one to input values', () async {

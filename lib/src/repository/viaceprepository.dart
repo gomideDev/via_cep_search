@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:viacepsearch/src/model/model.dart';
+import 'package:viacepsearch_silas/src/model/model.dart';
 
 class ViaCepRepository {
   Future<ViaCepSearch> getViaCep(String cep) async {

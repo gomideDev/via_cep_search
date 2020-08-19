@@ -1,4 +1,4 @@
-import 'package:viacepsearch/src/repository/viaceprepository.dart';
+import 'package:viacepsearch_silas/src/repository/viaceprepository.dart';
 
 class ViaCepSearch {
   final String cep;

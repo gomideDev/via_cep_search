@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:viacepsearch/viacepsearch.dart';
+import 'package:viacepsearch_silas/viacepsearch.dart';
 
 void main() {
   runApp(MyApp());
